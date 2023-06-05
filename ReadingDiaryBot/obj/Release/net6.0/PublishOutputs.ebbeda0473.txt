@@ -1,0 +1,14 @@
+D:\Документи\КПІ\Програмування\2 семестр\Курсова\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\ReadingDiaryBot.exe
+D:\Документи\КПІ\Програмування\2 семестр\Курсова\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Документи\КПІ\Програмування\2 семестр\Курсова\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Документи\КПІ\Програмування\2 семестр\Курсова\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\ReadingDiaryBot.dll
+D:\Документи\КПІ\Програмування\2 семестр\Курсова\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\ReadingDiaryBot.deps.json
+D:\Документи\КПІ\Програмування\2 семестр\Курсова\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\ReadingDiaryBot.runtimeconfig.json
+D:\Документи\КПІ\Програмування\2 семестр\Курсова\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\ReadingDiaryBot.pdb
+D:\Документи\КПІ\Програмування\2 семестр\Курсова\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\Документи\КПІ\Програмування\2 семестр\Курсова\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\RestSharp.dll
+D:\Документи\КПІ\Програмування\2 семестр\Курсова\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\System.Text.Encodings.Web.dll
+D:\Документи\КПІ\Програмування\2 семестр\Курсова\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\System.Text.Json.dll
+D:\Документи\КПІ\Програмування\2 семестр\Курсова\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\Telegram.Bot.dll
+D:\Документи\КПІ\Програмування\2 семестр\Курсова\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\Telegram.Bot.Extensions.Polling.dll
+D:\Документи\КПІ\Програмування\2 семестр\Курсова\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
