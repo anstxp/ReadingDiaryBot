@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ReadingDiaryBot
 build_property.RootNamespace = ReadingDiaryBot
-build_property.ProjectDir = D:\Документи\КПІ\Програмування\2 семестр\Курсова\ReadingDiaryBot\
+build_property.ProjectDir = D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Документи\КПІ\Програмування\2 семестр\Курсова\ReadingDiaryBot
+build_property.MSBuildProjectDirectory = D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Документи/КПІ/Програмування/2 семестр/Курсова/ReadingDiaryBot/Pages/Error.cshtml]
+[D:/OneDrive - kpi.ua/Документы/GitHub/ReadingDiaryBot/ReadingDiaryBot/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Документи/КПІ/Програмування/2 семестр/Курсова/ReadingDiaryBot/Pages/Index.cshtml]
+[D:/OneDrive - kpi.ua/Документы/GitHub/ReadingDiaryBot/ReadingDiaryBot/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Документи/КПІ/Програмування/2 семестр/Курсова/ReadingDiaryBot/Pages/Privacy.cshtml]
+[D:/OneDrive - kpi.ua/Документы/GitHub/ReadingDiaryBot/ReadingDiaryBot/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Документи/КПІ/Програмування/2 семестр/Курсова/ReadingDiaryBot/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/OneDrive - kpi.ua/Документы/GitHub/ReadingDiaryBot/ReadingDiaryBot/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Документи/КПІ/Програмування/2 семестр/Курсова/ReadingDiaryBot/Pages/_ViewImports.cshtml]
+[D:/OneDrive - kpi.ua/Документы/GitHub/ReadingDiaryBot/ReadingDiaryBot/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Документи/КПІ/Програмування/2 семестр/Курсова/ReadingDiaryBot/Pages/_ViewStart.cshtml]
+[D:/OneDrive - kpi.ua/Документы/GitHub/ReadingDiaryBot/ReadingDiaryBot/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Документи/КПІ/Програмування/2 семестр/Курсова/ReadingDiaryBot/Pages/Shared/_Layout.cshtml]
+[D:/OneDrive - kpi.ua/Документы/GitHub/ReadingDiaryBot/ReadingDiaryBot/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-6rtuxu80iq

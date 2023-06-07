@@ -37,3 +37,42 @@ D:\Документи\КПІ\Програмування\2 семестр\Кур�
 D:\Документи\КПІ\Програмування\2 семестр\Курсова\ReadingDiaryBot\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 D:\Документи\КПІ\Програмування\2 семестр\Курсова\ReadingDiaryBot\bin\Debug\net6.0\System.Text.Json.dll
 D:\Документи\КПІ\Програмування\2 семестр\Курсова\ReadingDiaryBot\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\bin\Debug\net6.0\appsettings.Development.json
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\bin\Debug\net6.0\appsettings.json
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\bin\Debug\net6.0\ReadingDiaryBot.staticwebassets.runtime.json
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\bin\Debug\net6.0\ReadingDiaryBot.exe
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\bin\Debug\net6.0\ReadingDiaryBot.deps.json
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\bin\Debug\net6.0\ReadingDiaryBot.runtimeconfig.json
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\bin\Debug\net6.0\ReadingDiaryBot.dll
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\bin\Debug\net6.0\ReadingDiaryBot.pdb
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\bin\Debug\net6.0\RestSharp.dll
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\bin\Debug\net6.0\System.Text.Json.dll
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\bin\Debug\net6.0\Telegram.Bot.dll
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\bin\Debug\net6.0\Telegram.Bot.Extensions.Polling.dll
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Debug\net6.0\ReadingDiaryBot.csproj.AssemblyReference.cache
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Debug\net6.0\ReadingDiaryBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Debug\net6.0\ReadingDiaryBot.AssemblyInfoInputs.cache
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Debug\net6.0\ReadingDiaryBot.AssemblyInfo.cs
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Debug\net6.0\ReadingDiaryBot.csproj.CoreCompileInputs.cache
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Debug\net6.0\ReadingDiaryBot.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Debug\net6.0\ReadingDiaryBot.RazorAssemblyInfo.cache
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Debug\net6.0\ReadingDiaryBot.RazorAssemblyInfo.cs
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Debug\net6.0\staticwebassets\msbuild.ReadingDiaryBot.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Debug\net6.0\staticwebassets\msbuild.build.ReadingDiaryBot.props
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ReadingDiaryBot.props
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ReadingDiaryBot.props
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Debug\net6.0\staticwebassets.pack.json
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Debug\net6.0\staticwebassets.build.json
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Debug\net6.0\staticwebassets.development.json
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Debug\net6.0\scopedcss\bundle\ReadingDiaryBot.styles.css
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Debug\net6.0\scopedcss\projectbundle\ReadingDiaryBot.bundle.scp.css
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Debug\net6.0\ReadingDiaryBot.csproj.CopyComplete
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Debug\net6.0\ReadingDiaryBot.dll
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Debug\net6.0\refint\ReadingDiaryBot.dll
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Debug\net6.0\ReadingDiaryBot.pdb
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Debug\net6.0\ReadingDiaryBot.genruntimeconfig.cache
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Debug\net6.0\ref\ReadingDiaryBot.dll

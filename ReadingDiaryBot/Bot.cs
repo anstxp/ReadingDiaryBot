@@ -12,7 +12,7 @@ namespace ReadingDiaryBot
 {
     public class Bot
     {
-        TelegramBotClient botClient = new TelegramBotClient("6186921563:AAF821Q8iQXtzgIpDPMHjkKyCeBqBjL_FqE");
+        TelegramBotClient botClient = new TelegramBotClient("5838401808:AAFBXvcXM2MmRSHiefzYpBeHO3KiadwRQtU");
         CancellationToken cancellationToken = new CancellationToken();
         ReceiverOptions receiverOptions = new ReceiverOptions { AllowedUpdates = { } };
         string CMessage;
@@ -39,11 +39,6 @@ namespace ReadingDiaryBot
             Console.WriteLine(ErorMassage);
             return Task.CompletedTask;
         }
-        public long GetChatId(Message message)
-        {
-            string chatID = $"{message.Chat.Id}";
-            return message.Chat.Id;
-        }
         private async Task HandlerUpdateAsync(ITelegramBotClient botClient, Update update, CancellationToken cancellationToken)
         {
             if (update.Type == UpdateType.Message && update?.Message?.Text != null)
@@ -62,7 +57,7 @@ namespace ReadingDiaryBot
         }
 
         private async Task HandlerMessage(ITelegramBotClient botClient, string cmessage, Message pmessage, Message message)
-        { 
+        {
             if (message.Text == "/start")
             {
                 ReplyKeyboardMarkup replyKeyboardMarkup = new
@@ -77,48 +72,58 @@ namespace ReadingDiaryBot
                 {
                     ResizeKeyboard = true
                 };
-                await botClient.SendTextMessageAsync(message.Chat.Id, "Виберіть команду:", replyMarkup: replyKeyboardMarkup);
+                var text = $"Привіт, {message.From.FirstName}!\n" +
+                     "Це бот для ведення читацького щоденника.\n" +
+                     "🔍 Тут ти можеш шукати книги за автором та назвою\n" +
+                     "📚 Додавати книги до свого читацького щоденника, залишати замітки та теги\n" +
+                     "✏️ Редагувати щоденник: видаляти книги, змінювати записи\n" +
+                     "🔖 Переглядати обрані книги\n" +
+                     "🎞️ А також шукати відео на ютубі, наприклад аудіокнигу \n" +
+                     "Для того, щоб додати книгу в щоденник, спочатку знайди її за допомогою функцій пошуку.\n"+
+                     "Приємного користування ;)\n";
+
+                await botClient.SendTextMessageAsync(message.Chat.Id, text);
+                await botClient.SendTextMessageAsync(message.Chat.Id, "Вибери команду", replyMarkup: replyKeyboardMarkup);
                 return;
             }
-
-            if (message.Text == "Пошук відео YouTube")
+                if (message.Text == "Пошук відео YouTube")
             {
-                await botClient.SendTextMessageAsync(message.Chat.Id, "Введіть ключові слова"); 
+                await botClient.SendTextMessageAsync(message.Chat.Id, "Введи ключові слова"); 
                 return;
             }
             if (message.Text == "Пошук за автором")
             {
-                await botClient.SendTextMessageAsync(message.Chat.Id, "Введіть назву книги, після чого введіть автора книги");
+                await botClient.SendTextMessageAsync(message.Chat.Id, "Введи назву книги, а в наступному повідомленні її автора");
                 return;
             }
             if (message.Text == "🔍 Пошук книги")
             {
-                await botClient.SendTextMessageAsync(message.Chat.Id, "Введіть назву книги, яку бажаєте знайти");
+                await botClient.SendTextMessageAsync(message.Chat.Id, "Введи назву книги, яку бажаєте знайти");
                 return;
             }
             if (message.Text == "Знайти книгу в щоденнику")
             {
-                await botClient.SendTextMessageAsync(message.Chat.Id, "Введіть назву книги, яку бажаєте знайти в щоденнику");
+                await botClient.SendTextMessageAsync(message.Chat.Id, "Введи назву книги, яку бажаєш знайти в щоденнику");
                 return;
             }
             if (message.Text == "Додати книгу в щоденник")
             {
-                await botClient.SendTextMessageAsync(message.Chat.Id, "Введіть опис книги, а в наступному повідомленні теги через кому");
+                await botClient.SendTextMessageAsync(message.Chat.Id, "Введи опис книги, а в наступному повідомленні теги (через кому)");
                 return;
             }
             if (message.Text == "Видалити книгу зі щоденника")
             {
-                await botClient.SendTextMessageAsync(message.Chat.Id, "Яку книгу ви бажаєте видалити?");
+                await botClient.SendTextMessageAsync(message.Chat.Id, "Яку книгу бажаєш видалити?");
                 return;
             }
             if (message.Text == "Редагувати опис книги")
             {
-                await botClient.SendTextMessageAsync(message.Chat.Id, "В першому повідомленні введіть книгу, опис якої бажаєте редагувати, в наступному новий опис");
+                await botClient.SendTextMessageAsync(message.Chat.Id, "Введи назву книги, замітки до якої бааєш змінити \nВ наступному повідомленні введи нові");
                 return;
             }
             if (message.Text == "Редагувати теги книги")
             {
-                await botClient.SendTextMessageAsync(message.Chat.Id, "В першому повідомленні введіть книгу, теги якої бажаєте редагувати, в наступному нові теги");
+                await botClient.SendTextMessageAsync(message.Chat.Id, "Введи назву книги, теги до якої бажаєш змінити \nВ наступному повідомленні введи нові");
                 return;
             }
             if (message.Text == "Показати всі книги")
@@ -149,7 +154,7 @@ namespace ReadingDiaryBot
             if (cmessage == "Знайти книгу в щоденнику" && message.Text != "Знайти книгу в щоденнику")
             {
                 string chatID = $"{message.Chat.Id}";
-                await method.GetBookDB(botClient, message, chatID, message.Text);
+                await method.GetBookDB(botClient, message, message.Text);
                 return;
             }
             if (cmessage == "Додати книгу в щоденник" && pmessage.Text != "Додати книгу в щоденник" && message.Text != "Додати книгу в щоденник")
@@ -207,6 +212,35 @@ namespace ReadingDiaryBot
 
                 await botClient.EditMessageReplyMarkupAsync(message.Chat.Id, message.MessageId, updatedKeyboard);
             }
+        }
+        private static void Main(string[] args)
+        {
+            var builder = WebApplication.CreateBuilder(args);
+            Bot books = new Bot();
+            books.Start();
+            // Add services to the container.
+            builder.Services.AddRazorPages();
+
+            var app = builder.Build();
+
+            // Configure the HTTP request pipeline.
+            if (!app.Environment.IsDevelopment())
+            {
+                app.UseExceptionHandler("/Error");
+                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+                app.UseHsts();
+            }
+
+            app.UseHttpsRedirection();
+            app.UseStaticFiles();
+
+            app.UseRouting();
+
+            app.UseAuthorization();
+
+            app.MapRazorPages();
+
+            app.Run();
         }
     }
 }

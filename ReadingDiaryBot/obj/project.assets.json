@@ -460,11 +460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Документи\\КПІ\\Програмування\\2 семестр\\Курсова\\ReadingDiaryBot\\ReadingDiaryBot.csproj",
+      "projectUniqueName": "D:\\OneDrive - kpi.ua\\Документы\\GitHub\\ReadingDiaryBot\\ReadingDiaryBot\\ReadingDiaryBot.csproj",
       "projectName": "ReadingDiaryBot",
-      "projectPath": "D:\\Документи\\КПІ\\Програмування\\2 семестр\\Курсова\\ReadingDiaryBot\\ReadingDiaryBot.csproj",
+      "projectPath": "D:\\OneDrive - kpi.ua\\Документы\\GitHub\\ReadingDiaryBot\\ReadingDiaryBot\\ReadingDiaryBot.csproj",
       "packagesPath": "C:\\Users\\anastasiya\\.nuget\\packages\\",
-      "outputPath": "D:\\Документи\\КПІ\\Програмування\\2 семестр\\Курсова\\ReadingDiaryBot\\obj\\",
+      "outputPath": "D:\\OneDrive - kpi.ua\\Документы\\GitHub\\ReadingDiaryBot\\ReadingDiaryBot\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anastasiya\\AppData\\Roaming\\NuGet\\NuGet.Config",

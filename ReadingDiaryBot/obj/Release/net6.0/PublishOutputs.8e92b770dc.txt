@@ -1,0 +1,14 @@
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\ReadingDiaryBot.exe
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\ReadingDiaryBot.dll
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\ReadingDiaryBot.deps.json
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\ReadingDiaryBot.runtimeconfig.json
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\ReadingDiaryBot.pdb
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\RestSharp.dll
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\System.Text.Encodings.Web.dll
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\System.Text.Json.dll
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\Telegram.Bot.dll
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\Telegram.Bot.Extensions.Polling.dll
+D:\OneDrive - kpi.ua\Документы\GitHub\ReadingDiaryBot\ReadingDiaryBot\obj\Release\net6.0\PubTmp\Out\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
